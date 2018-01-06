@@ -1,2 +1,3 @@
-# wikipedia_analysis
-Wikipedia events logs data analysis
+# wikipedia_users_activity_analysis
+
+Wikipedia users activity analysis.
